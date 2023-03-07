@@ -24,7 +24,6 @@ body:before {
 .container {
     padding: 3rem;
     margin-top: -3rem;
-    margin-bottom: -1rem;
 }
 
 .col {
@@ -74,9 +73,4 @@ body:before {
 
 .btn {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
-}
-
-.carousel-item img {
-    margin: 0 auto; /* this will align the image to center. */
-    width: auto; /* for those images which don't have a width specified, but has a max-height will be auto adjusted */
 }
