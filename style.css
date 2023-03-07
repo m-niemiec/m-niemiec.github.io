@@ -42,6 +42,7 @@ body:before {
     filter: grayscale(50%);
     -webkit-filter: grayscale(50%);
     transition: filter 0.2s ease-in-out, transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    margin-top: 1rem;
 }
 
 .portrait:hover {
